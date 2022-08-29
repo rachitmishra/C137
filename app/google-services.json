@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "556750830159",
+    "project_id": "prepup-bc647",
+    "storage_bucket": "prepup-bc647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556750830159:android:3df6b308b64afdf492c83a",
+        "android_client_info": {
+          "package_name": "club.prepup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556750830159-p6u65ip2hl80qgmki5it5lp0ktoce6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBXZvty9PzLQIbSiYRdKuXARmPc5gOzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556750830159-p6u65ip2hl80qgmki5it5lp0ktoce6e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556750830159-5co225qibbblns751rdjiif18l37t52p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "club.prepup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556750830159:android:77e8e53abd1eadc592c83a",
+        "android_client_info": {
+          "package_name": "com.rachitmishra.c137"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556750830159-p6u65ip2hl80qgmki5it5lp0ktoce6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBXZvty9PzLQIbSiYRdKuXARmPc5gOzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556750830159-p6u65ip2hl80qgmki5it5lp0ktoce6e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556750830159-5co225qibbblns751rdjiif18l37t52p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "club.prepup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
